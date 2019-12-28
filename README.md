@@ -9,4 +9,4 @@ in [Craig W. Reynolds paper](http://www.cs.toronto.edu/~dt/siggraph97-course/cwr
 
 In order to run the code on your machine, you must download the [Computer Graphic Elements Course Framework](https://github.com/UPB-Graphics/Framework-EGC) and append this repository to the Visual Studio project.
 
-![Boids GIF](https://i.imgur.com/IVd5dSH.gif)
+![Boids GIF](https://i.imgur.com/IVd5dSH.gifv)
